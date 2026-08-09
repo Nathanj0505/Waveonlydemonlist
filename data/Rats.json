@@ -4,7 +4,7 @@
     "author": "MageGMD",
     "creators": ["MageGMD"],
     "verifier": "MageGMD",
-    "verification": "https://youtube.com/shorts/w18sDT-OvhA?si=xZYrFeh5OEu0c2xp",
+    "verification": "https://youtu.be/zA7yJJsxr0o",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
@@ -13,6 +13,12 @@
             "link": "https://youtu.be/RrBrmmpiLoo?is=mIdxWQrKutJiSC1I",
             "hz": "120",
             "percent": 100
-        }
+        },
+        {
+             "user": "mumuB",
+            "link": "https://www.youtube.com/watch?v=GVqeUHgWrm8",
+            "hz": "120",
+            "percent": 100
+            }
     ]
 }
