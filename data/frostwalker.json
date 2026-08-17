@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+             "user": "PengusP",
+            "link": "https://discord.com/channels/1535106551289745440/1535297105680404550/1538904796822634496",
+            "hz": "240",
+            "percent": 100
+        }
 ]
 }
