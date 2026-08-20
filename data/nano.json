@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+             "user": "PengusP",
+            "link": "https://discord.com/channels/1535106551289745440/1535297105680404550/1539661429236301965",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+             "user": "Sleepy",
+            "link": "https://medal.tv/games/geometry-dash/clips/nl37bGt6Z7jsCbSOn?invite=cr-MSxQSVgsMzMxMzE1Mjc3",
+            "hz": "240",
+            "percent": 100
+        }
 ]
 }
