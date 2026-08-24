@@ -8,5 +8,24 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+{
+             "user": "Sleepy",
+            "link": "https://medal.tv/games/geometry-dash/clips/nlrDwnx5SJzn2LZec/spok?invite=cr-MSwxUHksMzMxMzE1Mjc3LA",
+            "hz": "240",
+            "percent": 100
+        },
+{
+             "user": "PengusP",
+            "link": "https://cdn.discordapp.com/attachments/1535297105680404550/1541181949807431781/boring_level.mp4?ex=6a8d51ca&is=6a8c004a&hm=0deeee89e9a63b4ef1a2ea5f005102b63f75246267bc592cddef597b0053a2db&",
+            "hz": "240",
+            "percent": 100
+        },
+{
+             "user": "Ethanj190",
+            "link": "https://medal.tv/games/geometry-dash/clips/nnRrx211ao4jk7Q0h?invite=cr-MSxPZXosNzQxMzQ5Mzk0",
+            "hz": "240",
+            "percent": 100
+        } 
+        
 ]
 }
