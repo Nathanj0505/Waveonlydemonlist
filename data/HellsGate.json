@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+             "user": "Sleepy",
+            "link": "https://medal.tv/games/geometry-dash/clips/noRAaikOezwJIL-YB?invite=cr-MSxZakwsMzMxMzE1Mjc3",
+            "hz": "240",
+            "percent": 100
+        } 
+
 ]
 }
